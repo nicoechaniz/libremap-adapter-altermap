@@ -1,4 +1,5 @@
 {
-  "owmdb": "http://api.openwifimap.net/db",
-  "lmdb": "http://USER:PASS@dev.libremap.net/api/db"
+    "owm_db_seq": 0,
+    "owm_db": "http://api.openwifimap.net/db",
+    "lm_db": "http://dev.libremap.net/api/db"
 }

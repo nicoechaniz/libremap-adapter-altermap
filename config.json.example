@@ -1,5 +1,5 @@
 {
-    "owm_db_seq": 0,
-    "owm_db": "http://api.openwifimap.net/db",
+    "am_db_seq": 0,
+    "am_db": "http://map.libre-mesh.net/libremap",
     "lm_db": "http://dev.libremap.net/api/db"
 }

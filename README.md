@@ -1,4 +1,4 @@
-libremap-adapter-openwifimap
+libremap-adapter-altermap
 ============================
 
-Pull data from OpenWiFiMap into libremap
+Pull data from AlterMap into libremap
